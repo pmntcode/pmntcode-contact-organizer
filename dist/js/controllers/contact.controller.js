@@ -1,4 +1,4 @@
-import { ContactList } from "../models/contact-list.model.js";
+import { ContactList } from "../models/contact.model.js";
 export class ContactController {
     contactList;
     constructor() {

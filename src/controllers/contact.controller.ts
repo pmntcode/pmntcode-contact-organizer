@@ -1,5 +1,4 @@
-import { ContactList } from "../models/contact-list.model.js";
-import { Contact } from "../models/contact.model.js";
+import { Contact, ContactList } from "../models/contact.model.js";
 
 export class ContactController {
     private contactList: ContactList;
